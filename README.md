@@ -3,7 +3,7 @@ I grouped them together due to the similarity between them. \
 
 ### Paths:
 \UTR - Introduction to Computation Theory \
-\PPJ - Programming Language Translation \
+\PPJ - Programming Language Translation 
 
 ### UTR Info:
 Lab 1 - ε-NFA (epsilon non-deterministic finite automaton) simulator \
