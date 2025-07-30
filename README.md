@@ -1,5 +1,5 @@
 Collection of my solutions to the laboratory asignments to my Introduction to Computation Theory and Programming Language Translation classes. \
-I grouped them together due to the similarity between them. \
+I grouped them together due to the similarity between them. 
 
 ### Paths:
 \UTR - Introduction to Computation Theory \
